@@ -18,11 +18,11 @@
 
 🇺🇸  
 I build systems that solve real problems.  
-Computer Science gratuaded working with backend development, focused on creating APIs, database integrations, and scalable solutions.
+Computer Science graduated working with backend development, focused on creating APIs, database integrations, and scalable solutions.
 
 🇧🇷  
 Desenvolvo sistemas que resolvem problemas reais.  
-Foramdo de Ciência da Computação com foco em backend, criando APIs, integrações com banco de dados e soluções escaláveis.
+Formado de Ciência da Computação com foco em backend, criando APIs, integrações com banco de dados e soluções escaláveis.
 
 ---
 
